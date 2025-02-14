@@ -7,3 +7,5 @@ This utility is working as backgroud service for the battery monitoring.
 The code was created by AI https://www.cursor.com
 
 Thank the Cursor - AI code editor to create this utility!
+
+This is the alpha software. You are using it on your own risk.
